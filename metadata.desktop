@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=Garuda-Splash Splashscreen
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Garuda-Splash
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Saurabh-wadekar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=saurabhwadekar420@gmail.com
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Garuda-Splash
+X-KDE-PluginInfo-Version=1.0
+X-Plasma-MainScript=defaults
+
